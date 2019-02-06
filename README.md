@@ -43,4 +43,6 @@ Model Used
 For this project we used CNN model.
 
 Result
-
+![alt text](https://github.com/ElinaBaral/MiniProject/edit/master/img1.png)
+![alt text](https://github.com/ElinaBaral/MiniProject/edit/master/img2.png)
+![alt text](https://github.com/ElinaBaral/MiniProject/edit/master/img3.png)
