@@ -9,9 +9,11 @@ contains 5 files :
 
 	test.py : python file that takes input from input.py and predict the doodle
 
-	doodle.h5 : saved keras model
+	keras-3.h5 : saved keras model
 
 	fc.txt : list of classes used in our model
+	
+	Doodle classifier.ipynb : Creats model, google collab file
 
 
 Doodle Classifier
